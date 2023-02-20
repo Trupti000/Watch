@@ -1,0 +1,199 @@
+
+.home img{
+   height: 600px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: black;
+    font-size: 80px;
+
+}
+.main h1{
+   margin: 5%;
+   font-size: 90px;
+   color: rgba(0, 0, 0, 0.371);
+} 
+.main img{
+    width: 100%;
+    height: 50%;
+}
+.midd{
+    margin-top: 5%;
+}
+.low{
+    margin: 10%;
+}
+.low h1{
+    font-size: 80px;
+    color: rgba(1, 1, 1, 0.544);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+.main h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.contact{
+    margin: 5%;
+   
+}
+.low h2{
+    color: rgba(210, 105, 30, 0.569);
+    font-size: 50px;
+}
+.contact h1{
+    font-size: 70px;
+    margin: 5%;
+}
+.head h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: rgba(12, 12, 12, 0.595);
+    font-weight: bold;
+}
+.middle{
+    margin-top: 5%;
+    width: 100%;
+    height: 100%;
+}
+.middle h4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    top: 2;
+    bottom: 0;
+    left: 0;
+    right: 0;
+   position: absolute;
+    margin-left: 15%;
+    color: white;
+    font-size: 20px;
+}
+.A img{
+    width: 100%;
+    height: 10%;
+}
+.navbar h2{
+    color: darkred;
+    font-size: 40px;
+}
+.navbar a{
+    color: darkgoldenrod;
+    font-weight: bolder;
+}
+.fixed-top{
+    background-color: rgba(128, 128, 128, 0.544);   
+}
+.A h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 2;
+    bottom: 0;
+    left: 2;
+    right: 0;
+    font-size: 150px;
+    color: white;
+}
+
+.B{
+    margin: 10%;
+}
+.B img{
+    width: 100%;
+    height: 100%;
+}
+.B h1{
+    font-size: 60px;
+    color: rgba(0, 0, 0, 0.563);
+
+}
+
+
+.C h1{
+    font-size: 30px;
+    font-weight: lighter;
+}
+
+.C img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: 20%;
+  
+   margin-right: 10%;
+}
+.D img{
+    width: 90%;
+    height: 50%;
+}
+
+
+.D h1{
+    font-size: 70px;
+    color: rgba(0, 0, 139, 0.483);
+}
+.foot h4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.foot{
+    background-color: rgba(122, 121, 121, 0.449);
+}
+
+.v h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 2;
+    bottom: 0;
+    left: 2;
+    right: 0;
+    font-size: 150px;
+    color: white;
+}
+.man{
+    margin: 10%;
+}
+
+.man h1{
+    margin: 5%;
+    font-size: 50px;
+    font-weight: bold;
+}
+.home h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    color: white;
+    font-size: 80px;
+    font-weight: lighter;
+}
+
+
